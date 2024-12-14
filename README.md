@@ -1,2 +1,2 @@
 # bookbot
-Python Book Analyzer for Boot.dev
+Python Book Analyser: my first project for Boot.dev
